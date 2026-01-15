@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+langchain
+langchain-core
+langchain-google-genai
+google-generativeai
+
